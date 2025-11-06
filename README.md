@@ -1,0 +1,2 @@
+MEMBERS Denise Kariuki Macharia-BSCCS/2025/40143 John Timothy-BSCCS/2025/35868 Susan Wairimu-BSCCS/2025/39874 Alvin Charles-BSCCS/2025/39841 James Ndiritu-BSCCS/2025/39528 Weignstone Churchill-BSCCS/2025/39599 Abraham Wambugu-BSCCS/2025/40383 Aloo John-BSCCS/2025/40982 Louis Musumi-BSCCS/2024/34229
+
