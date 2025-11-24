@@ -17,3 +17,4 @@ Weignstone Churchill-BSCCS/2025/39599
 Abraham Wambugu-BSCCS/2025/40383
 Aloo John-BSCCS/2025/40982
 Louis Musumi-BSCCS/2024/34229
+Cliff Daren-BSCCS/2025/42307
