@@ -2,7 +2,7 @@
 #include <LiquidCrystal.h>
 #include <Servo.h>
 
-#define Password_Length 5
+#define Password_Length 4
 
 Servo myservo;
 LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
